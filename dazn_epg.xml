@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="Grok-custom-DAZN-ES-EPG" generator-info-url="https://x.ai">
+<tv generator-info-name="Grok-DAZN-ES-EPG" generator-info-url="https://x.ai">
   <channel id="dazn_es_8">
     <display-name>DAZN ES 8</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" />
   </channel>
-  <channel id="dazn_es_16">
-    <display-name>DAZN ES 16</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" />
-  </channel>
   <channel id="dazn_es_9">
     <display-name>DAZN ES 9</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" />
+  </channel>
+  <channel id="dazn_es_16">
+    <display-name>DAZN ES 16</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" />
   </channel>
   <channel id="dazn_es_20">
@@ -69,74 +69,73 @@
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" />
   </channel>
 
+  <!-- Programmes in UTC (your screenshot times converted) -->
   <programme start="20260315230000 +0000" stop="20260316030000 +0000" channel="dazn_es_8">
-    <title lang="es">Como - AS Roma</title>
-    <desc lang="es">Serie A - Como vs AS Roma (DAZN ES 8)</desc>
-    <category lang="es">Fútbol</category>
+    <title>Como - AS Roma</title>
+    <desc>Serie A</desc>
   </programme>
   <programme start="20260315233000 +0000" stop="20260316023000 +0000" channel="dazn_es_16">
-    <title lang="es">Málaga CF - SD Huesca</title>
-    <desc lang="es">Segunda División</desc>
+    <title>Málaga CF - SD Huesca</title>
+    <desc>Segunda División</desc>
   </programme>
   <programme start="20260315233000 +0000" stop="20260316023000 +0000" channel="dazn_es_9">
-    <title lang="es">SD Eibar - Burgos CF</title>
-    <desc lang="es">Segunda División</desc>
+    <title>SD Eibar - Burgos CF</title>
+    <desc>Segunda División</desc>
   </programme>
   <programme start="20260315233000 +0000" stop="20260316023000 +0000" channel="dazn_es_20">
-    <title lang="en">Türkiye vs. Australia</title>
-    <desc lang="en">International Match</desc>
+    <title>Türkiye vs. Australia</title>
+    <desc>International Match</desc>
   </programme>
   <programme start="20260315233000 +0000" stop="20260316023000 +0000" channel="dazn_es_19">
-    <title lang="de">VfL Wolfsburg - Bayer 04 Leverkusen</title>
-    <desc lang="de">Frauen-Bundesliga (Women's)</desc>
+    <title>VfL Wolfsburg - Bayer 04 Leverkusen</title>
+    <desc>Frauen-Bundesliga (Women's)</desc>
   </programme>
   <programme start="20260315233000 +0000" stop="20260316023000 +0000" channel="dazn_es_18">
-    <title lang="es">Coviran Granada - BAXI Manresa</title>
-    <desc lang="es">Baloncesto - Liga ACB</desc>
+    <title>Coviran Granada - BAXI Manresa</title>
+    <desc>Baloncesto - Liga ACB</desc>
   </programme>
   <programme start="20260315233000 +0000" stop="20260316023000 +0000" channel="dazn_es_17">
-    <title lang="es">Joventut Badalona - FC Barcelona + La Prórroga</title>
-    <desc lang="es">Baloncesto - Liga ACB + Post-partido</desc>
+    <title>Joventut Badalona - FC Barcelona + La Prórroga</title>
+    <desc>Baloncesto - Liga ACB + Post-partido</desc>
   </programme>
   <programme start="20260316000000 +0000" stop="20260316040000 +0000" channel="dazn_es_32">
-    <title lang="en">New Zealand vs. United States</title>
-    <desc lang="en">FIBA Women's Basketball World Cup Qualifier</desc>
+    <title>New Zealand vs. United States</title>
+    <desc>FIBA Women's Basketball World Cup Qualifier</desc>
   </programme>
   <programme start="20260316000000 +0000" stop="20260316040000 +0000" channel="dazn_es_10">
-    <title lang="fr">France vs. Nigeria</title>
-    <desc lang="fr">International (probablemente baloncesto o fútbol)</desc>
+    <title>France vs. Nigeria</title>
+    <desc>International</desc>
   </programme>
   <programme start="20260316003000 +0000" stop="20260316040000 +0000" channel="dazn_es_1">
-    <title lang="en">Big Ten Championship Game: Michigan vs. Purdue</title>
-    <desc lang="en">Baloncesto universitario - Big Ten</desc>
+    <title>Big Ten Championship Game: Michigan vs. Purdue</title>
+    <desc>Baloncesto universitario - Big Ten</desc>
   </programme>
   <programme start="20260316003000 +0000" stop="20260316053000 +0000" channel="dazn_es_3">
-    <title lang="es">Real Sociedad - CA Osasuna + El Post</title>
-    <desc lang="es">LaLiga + Post-partido</desc>
+    <title>Real Sociedad - CA Osasuna + El Post</title>
+    <desc>LaLiga + Post-partido</desc>
   </programme>
   <programme start="20260316014500 +0000" stop="20260316064500 +0000" channel="dazn_es_5">
-    <title lang="it">Lazio - AC Milan</title>
-    <desc lang="it">Serie A</desc>
+    <title>Lazio - AC Milan</title>
+    <desc>Serie A</desc>
   </programme>
   <programme start="20260316020000 +0000" stop="20260316060000 +0000" channel="dazn_es_22">
-    <title lang="en">Trenton BIC - Paterson U</title>
-    <desc lang="en">Deporte universitario (posible baloncesto)</desc>
+    <title>Trenton BIC - Paterson U</title>
+    <desc>Deporte universitario</desc>
   </programme>
   <programme start="20260316020000 +0000" stop="20260316060000 +0000" channel="dazn_es_21">
-    <title lang="es">Real Sporting - CD Castellón</title>
-    <desc lang="es">Segunda División</desc>
+    <title>Real Sporting - CD Castellón</title>
+    <desc>Segunda División</desc>
   </programme>
   <programme start="20260316020000 +0000" stop="20260316060000 +0000" channel="dazn_es_11">
-    <title lang="en">Race | Pennzoil 400 presented by Jiffy Lube</title>
-    <desc lang="en">NASCAR</desc>
+    <title>Race | Pennzoil 400 presented by Jiffy Lube</title>
+    <desc>NASCAR</desc>
   </programme>
   <programme start="20260316031500 +0000" stop="20260316071500 +0000" channel="dazn_es_2">
-    <title lang="en">Italy vs. Spain</title>
-    <desc lang="en">International Match</desc>
+    <title>Italy vs. Spain</title>
+    <desc>International Match</desc>
   </programme>
   <programme start="20260316032500 +0000" stop="20260316072500 +0000" channel="dazn_es_6">
-    <title lang="en">Pirelli Trophy & Coppa Shell, Race 2 | Thermal Club</title>
-    <desc lang="en">Automovilismo - Ferrari Challenge</desc>
+    <title>Pirelli Trophy & Coppa Shell, Race 2 | Thermal Club</title>
+    <desc>Automovilismo - Ferrari Challenge</desc>
   </programme>
-
 </tv>
